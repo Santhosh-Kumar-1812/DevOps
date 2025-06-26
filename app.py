@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
   <title>Employee Form</title>
@@ -8,4 +8,4 @@
   <form action="submit.php" method="POST">
     <label for="name">Name:</label><br />
     <input type="text" id=
-#santhosh kumar
+#santhosh kumar rathode
